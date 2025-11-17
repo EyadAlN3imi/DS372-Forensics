@@ -13,14 +13,14 @@ All patterns were scanned at 600 dpi with detailed metadata describing the exper
 
 Link: https://www.sciencedirect.com/science/article/pii/S2352340925000848
 
-A collection of 635 drip-type blood patterns created using whole bovine blood.
+A collection of drip-type blood patterns created using whole bovine blood.
 The drops were released under different indoor and outdoor conditions to capture variations in surface interaction, spread, and morphology—ideal for studying drip behavior or building drip-pattern classifiers.
 
 3. Gunshot vs. Impact Spatter ML Dataset
 
 Link: https://arxiv.org/html/2501.02151v1#S2
 
-A dataset of 169 blood-spatter images covering two mechanisms:
+A dataset of blood-spatter images covering two mechanisms:
 -Gunshot backspatter
 -Impact beating spatter
 
